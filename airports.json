@@ -1,0 +1,4 @@
+{
+  "_help": "Airports added here appear in every AeroDispatch app within minutes, no new version needed. One entry per ICAO code: \"XXXX\": { \"name\": \"Airport name\", \"lat\": 12.345, \"lon\": -6.789 }. Keys starting with _ are ignored. An entry here also overrides the built-in database.",
+  "_example": { "name": "Example Airport", "lat": 48.8566, "lon": 2.3522 }
+}
