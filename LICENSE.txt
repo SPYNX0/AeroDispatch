@@ -1,0 +1,19 @@
+AeroDispatch
+Copyright (c) 2026 Spynxo. All rights reserved.
+
+You may download, install and use AeroDispatch free of charge, for personal use.
+
+You may not, without prior written permission from the author:
+- redistribute, sell, rent or publish AeroDispatch or any part of it, modified or not;
+- modify, decompile, extract or reuse its code, data or graphical elements in another product.
+
+AeroDispatch is a flight simulation tool. Documents it produces have no real-world
+operational value.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Third-party components (Electron, Leaflet, ExcelJS, topojson-client, world-atlas /
+Natural Earth) remain under their own licenses.
