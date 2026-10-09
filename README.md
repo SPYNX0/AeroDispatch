@@ -18,8 +18,9 @@ AeroDispatch is a desktop app to plan and follow the flights of your virtual air
 - **History** of completed and cancelled flights.
 - **Exports**: Excel import/export and a "Flight Dispatch Release" PDF.
 - **Backup** of all your data to a single file.
+- **Remote access from an iPad** (or any device on your Wi-Fi) in Safari, with a touch-friendly layout, in real-time sync with the PC.
 - English / French interface.
-- **Automatic updates**: the app tells you when a new version is available, one click to install.
+- **In-app updates**: the app tells you when a new version is available; one click downloads it and AeroDispatch restarts in a few seconds.
 
 **Install:** run the setup, done. No administrator rights needed.
 
@@ -39,8 +40,9 @@ AeroDispatch est une application de bureau pour planifier et suivre les vols de 
 - **Historique** des vols complétés et annulés.
 - **Exports** : import/export Excel et PDF « Flight Dispatch Release ».
 - **Sauvegarde** de toutes vos données dans un seul fichier.
+- **Accès à distance depuis un iPad** (ou tout appareil sur votre Wi-Fi) dans Safari, avec une interface tactile, synchronisé en temps réel avec le PC.
 - Interface en français / anglais.
-- **Mises à jour automatiques** : l'app vous prévient quand une nouvelle version sort, un clic pour l'installer.
+- **Mises à jour dans l'app** : l'app vous prévient quand une nouvelle version sort ; un clic la télécharge et AeroDispatch redémarre en quelques secondes.
 
 **Installation :** lancez l'installeur, c'est tout. Aucun droit administrateur n'est nécessaire.
 
