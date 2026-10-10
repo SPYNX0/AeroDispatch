@@ -5,7 +5,7 @@
 
 ## ⬇️ Download / Télécharger
 
-👉 **[Latest version / Dernière version](https://github.com/SPYNX0/AeroDispatch/releases/latest)** : download `AeroDispatch-win-Setup.exe`.
+👉 **[Latest version / Dernière version](https://github.com/SPYNX0/AeroDispatch/releases/latest)** : download `AeroDispatch-Setup-x.y.z.exe`.
 
 
 ## English
